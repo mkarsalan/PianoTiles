@@ -1,6 +1,4 @@
-MATLAB Project:   PIANO TILES
-By:               Muhammad Arsalan Khan
-
+#MATLAB Project:   PIANO TILES
 
 Summary: This is a game inspired from piano. In this game, piano keys (or tiles) will be falling from above and the user 
          will have to bring the red pointer (at the bottom) onto the same column on as that of the falling tile. 
